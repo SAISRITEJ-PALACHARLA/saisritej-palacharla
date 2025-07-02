@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 👋 Hi there, I’m Sai Sritej Palacharla! 🚀
+
+Welcome to my digital playground 👨‍💻 
 🚀 I’m currently working on full-stack web apps, DevOps pipelines, and AI-powered interfaces.<br><br>🤝 I’m looking to collaborate on open-source projects, especially those involving backend systems, cloud, or AI integration.<br><br>🧠 I’m looking for help with refining my system design skills and preparing for large-scale architecture interviews.<br><br>🌱 I’m currently learning advanced Docker/Kubernetes, CI/CD with GitHub Actions, and scalable ML deployments.<br><br>💬 Ask me about cloud deployments (AWS), backend engineering, prompt engineering, or resume building for FAANG roles.<br><br>⚡ Fun fact: I once connected a mobile app and Raspberry Pi using Firebase to detect elderly fall events in real time!
 
 
